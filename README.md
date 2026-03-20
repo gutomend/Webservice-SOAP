@@ -130,25 +130,6 @@ ApplicationClient2.java
 
 ---
 
-## ⚙️ Configurações Importantes
-
-* Dependência principal:
-
-```xml
-<dependency>
-    <groupId>com.sun.xml.ws</groupId>
-    <artifactId>jaxws-rt</artifactId>
-</dependency>
-```
-
-* Plugin utilizado para geração de classes a partir do WSDL:
-
-```xml
-jaxws-maven-plugin
-```
-
----
-
 ## 📌 Conceitos Aplicados
 
 * Arquitetura SOA

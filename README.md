@@ -4,14 +4,11 @@ Webservice SOAP (CP1)
 
 ## 👥 Integrantes
 
-Nome	RM
-Gustavo Oliveira	559163
-Gabriel Vasquez	557056
-Augusto Mendonça	558371
-
-## 📚 Disciplina
-
-Arquitetura SOA e Web Services
+| Nome               | RM     |
+|--------------------|--------|
+| Gustavo Oliveira   | 559163 |
+| Gabriel Vasquez    | 557056 |
+| Augusto Mendonça   | 558371 |
 
 ---
 
@@ -161,22 +158,5 @@ jaxws-maven-plugin
 * WSDL (Web Service Description Language)
 * Publicação de serviços com `Endpoint`
 * Consumo de serviços com `Service` e `QName`
-
----
-
-
-
----
-
-## ✅ Status do Projeto
-
-✔️ Concluído
-✔️ Serviços publicados e consumidos com sucesso
-
----
-
-## 💡 Observações
-
-Este projeto demonstra a comunicação entre sistemas distribuídos utilizando SOAP, reforçando conceitos fundamentais de integração entre aplicações.
 
 ---
